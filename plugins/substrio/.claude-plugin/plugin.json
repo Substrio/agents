@@ -1,0 +1,14 @@
+{
+  "name": "substrio",
+  "displayName": "Substrio",
+  "version": "1.0.0",
+  "description": "Connects Claude Code to Substrio. Your owner signs in once, and every Substrio tool is ready.",
+  "author": {
+    "name": "Substrio",
+    "url": "https://substrio.com"
+  },
+  "homepage": "https://substrio.com/agents",
+  "repository": "https://github.com/Substrio/agents",
+  "license": "MIT",
+  "keywords": ["substrio", "mcp", "apps", "hosting", "database", "deploy"]
+}

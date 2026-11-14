@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "substrio": {
+      "type": "http",
+      "url": "https://mcp.substrio.com/mcp"
+    }
+  }
+}

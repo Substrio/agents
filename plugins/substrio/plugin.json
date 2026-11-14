@@ -1,0 +1,27 @@
+{
+  "name": "substrio",
+  "version": "1.0.0",
+  "description": "Connects Codex to Substrio. Your owner signs in once, and every Substrio tool is ready.",
+  "author": {
+    "name": "Substrio",
+    "url": "https://substrio.com"
+  },
+  "homepage": "https://substrio.com/agents",
+  "repository": "https://github.com/Substrio/agents",
+  "license": "MIT",
+  "keywords": ["substrio", "mcp", "apps", "hosting", "database", "deploy"],
+  "extensions": {
+    "com.openai": {
+      "interface": {
+        "displayName": "Substrio",
+        "shortDescription": "Build, run, and ship apps on Substrio.",
+        "longDescription": "Substrio is an app platform. An account holds apps, and each app comes with a host, data, functions, files, users, and a site. This plugin connects Codex to Substrio's tools. Your owner signs in once, and Codex can build, test, and ship their apps.",
+        "developerName": "Substrio",
+        "category": "Coding",
+        "websiteURL": "https://substrio.com",
+        "termsOfServiceURL": "https://substrio.com/terms",
+        "defaultPrompt": "Build me an app on Substrio."
+      }
+    }
+  }
+}

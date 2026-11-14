@@ -1,0 +1,17 @@
+{
+  "name": "substrio",
+  "description": "Substrio for Claude Code: build, run, and ship apps on Substrio from your agent.",
+  "owner": {
+    "name": "Substrio",
+    "url": "https://substrio.com"
+  },
+  "plugins": [
+    {
+      "name": "substrio",
+      "source": "./plugins/substrio",
+      "description": "Connects Claude Code to Substrio. Your owner signs in once, and every Substrio tool is ready.",
+      "category": "development",
+      "homepage": "https://substrio.com/agents"
+    }
+  ]
+}
