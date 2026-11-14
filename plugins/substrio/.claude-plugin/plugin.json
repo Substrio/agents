@@ -10,5 +10,8 @@
   "homepage": "https://substrio.com/agents",
   "repository": "https://github.com/Substrio/agents",
   "license": "MIT",
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://substrio.com/agents",
+  "termsOfServiceUrl": "https://substrio.com/terms",
   "keywords": ["substrio", "mcp", "apps", "hosting", "database", "deploy"]
 }

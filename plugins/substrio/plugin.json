@@ -20,7 +20,9 @@
         "category": "Coding",
         "websiteURL": "https://substrio.com",
         "termsOfServiceURL": "https://substrio.com/terms",
-        "defaultPrompt": "Build me an app on Substrio."
+        "defaultPrompt": "Build me an app on Substrio.",
+        "composerIcon": "./assets/icon.png",
+        "logo": "./assets/logo.png"
       }
     }
   }

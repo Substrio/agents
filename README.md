@@ -1,3 +1,5 @@
+<p align="center"><img src="plugins/substrio/assets/logo.png" alt="Substrio" width="160"></p>
+
 # Substrio for AI agents
 
 This repository is the plugin marketplace for Substrio. It connects your AI agent to Substrio, so the agent can build, test, and ship apps for you. Substrio is an app platform. Your account holds your apps, and each app comes with a host, data, functions, files, users, and a site.
